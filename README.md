@@ -1,5 +1,5 @@
 # Payment-Gateway-Integration
-"Payment-Gateway-Integration" project built with HTML5, CSS3, JavaScript.It'sa simple Website which create for some funds donation to Wildfire Fire Fighters. Who lost their lives for saving nature from buring.
+"Payment-Gateway-Integration" project built with HTML5, CSS3, JavaScript.It's a simple Website which create for some funds donation to Wildfire Fire Fighters. Who lost their lives for saving nature from buring.
 
 # Screenshot
 You can view the project by clicking on the demo Button.
